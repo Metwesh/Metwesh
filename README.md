@@ -75,7 +75,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Metwesh&theme=radical" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=Metwesh&theme=radical" width="400" />
 </p>
 
 ---
