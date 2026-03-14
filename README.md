@@ -85,7 +85,7 @@
 - 📧 Email: <mohamedh.aly@hotmail.com>
 - 🌐 [Portfolio Website](https://metwesh.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-h-aly/)
-- 📱 Tel: [+20 127 818 9999](tel:+201278189999)
+- 📱 Tel: [+20 127 818 9999](+201278189999)
 
 ---
 
